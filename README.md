@@ -1,2 +1,3 @@
 # cansat
-cansat
+
+Small satellite project.
